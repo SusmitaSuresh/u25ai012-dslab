@@ -1,1 +1,0 @@
-/*5. Find the maximum sum sublist in a doubly linked list*/
